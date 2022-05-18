@@ -8,6 +8,6 @@
 
 ![MV](README.assets/Racetrack_Introduction-to-Machine-Vision_gaitubao_546x307.jpg)
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=maguangyan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=maguangyan&count_private=true)](https://github.com/maguangyan/github-readme-stats)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=maguangyan&layout=compact)
